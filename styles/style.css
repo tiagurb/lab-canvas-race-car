@@ -35,4 +35,11 @@ body button {
 #game-board {
     float: left;
     padding: 20px 0px;
+    display: none
+}
+
+canvas {
+  background-image: url('../images/road.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
